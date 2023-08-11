@@ -11,7 +11,7 @@ boxplot(ds$CO2_emission)
 # hist(ds$GDP)
 
 shapiro.test(ds$GDP)
-shapiro.test(ds$CO2_emission)
+# shapiro.test(ds$CO2_emission)
 
 
 
